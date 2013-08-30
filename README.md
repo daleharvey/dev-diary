@@ -1,0 +1,1 @@
+After asking people one too many questions repeatedly after forgetting how to do something, I have decided to start my `dev diary`. The idea is to keep notes of my development so I can look back on them, it may be incomprehensible garbage, it may be a useful insight into the day to day of an Open Source developer, who knows!
